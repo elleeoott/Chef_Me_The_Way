@@ -42,7 +42,7 @@
     "nutritionix": "^0.6.1",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
-    "sequelize": "^4.32.2",
+    "sequelize": "^6.28.2",
     "sequelize-restful": "^0.4.3"
   }
 }
